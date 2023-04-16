@@ -19,7 +19,7 @@
 ### https://portfolio-yo-programo.web.app
 
  ## 🔗👔💼 Link de Linkedln:
-### https://www.líinkedin.com/gastón-manuel-ftacla-04b57b229/
+### https://www.líinkedin.com/in/gastón-manuel-ftacla-04b57b229/
 
 
 ## 🌎🗣️📚 Idiomas:
