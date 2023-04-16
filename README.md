@@ -1,6 +1,6 @@
 # Mi Perfil
 ## Hola! Mi nombre es Gastón Manuel Ftacla.
-## Soy desarrollador Full Stack Jr y me encantaría tener la oportunidad de trabajar en un entorno de equipo IT y seguir aprendiendo y creciendo en mi carrera. Me encantaría aportar mis habilidades y conocimientos al equipo y aprender de mis futuros colegas. Agradezco su tiempo y espero tener la oportunidad de hablar con ustedes en el futuro cercano."
+## Soy desarrollador Full Stack Jr y me encantaría tener la oportunidad de trabajar en un entorno de equipo IT y seguir aprendiendo y creciendo en mi carrera. Me encantaría aportar mis habilidades y conocimientos al equipo y aprender de mis futuros colegas.
 
 ## ⚡Mi Stack: 
 
