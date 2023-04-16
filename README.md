@@ -27,4 +27,4 @@
 
 ## 🔭 Actualmente desarrollando una pagina ecommerce.
 ## 🌱 Actualmente estudiando Tecnicatura en Programación en la UTN Mar del Plata. 
-  Estudiando Testing QC Manual. Con curso correlativo a Testing QA avanzado.
+  ## Estudiando Testing QC Manual. Con curso correlativo a Testing QA avanzado.
