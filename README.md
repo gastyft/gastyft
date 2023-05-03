@@ -15,7 +15,7 @@
 ### 🏃‍♂️💨👨‍💻 Metodología Ágil: SCRUM
 
 ## 🌐💻👤 Mi portfolio web:
-
+Utilizo un servidor gratuito. Si no cargan los datos, sepan disculpar.
 ### https://portfolio-yo-programo.web.app
 
  ## 🔗👔💼 Link de Linkedln:
