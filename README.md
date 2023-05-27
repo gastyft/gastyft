@@ -27,4 +27,5 @@ Utilizo un servidor gratuito. Si no cargan los datos, sepan disculpar.
 
 ## 🔭 Actualmente desarrollando una página ecommerce.
 ## 🌱 Actualmente estudiando Tecnicatura en Programación en la UTN Mar del Plata. 
- ## 🌱 Realizando curso de desarrollo de apps de escritorio con C# .net
+ ## 🌱 Realizando curso de desarrollo de apps de escritorio con C# .net WebForms.
+  ## 🌱 Realizando curso de desarrollo web de Miscrosoft: ASP .NET WebForms.
