@@ -8,7 +8,7 @@
 
 ### 🔙🔧🤖Backend: Apache NetBeans, Java, Maven, JSP, Servlets, Sockets, Spring Boot, Postman.
 
-### 🗄️💾📊Base de datos: MySQL.
+### 🗄️💾📊Base de datos: MySQL, SQL.
 
 ### 🐙💻📚GitHub.
 
