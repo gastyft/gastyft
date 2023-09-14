@@ -14,7 +14,7 @@
 
 ### 🏃‍♂️💨👨‍💻 Metodología Ágil: SCRUM
 
-### APPS de escritorio con C# .NET WebForms
+### 🖥️🔧📊APPS de escritorio con C# .NET WebForms
 
 ## 🌐💻👤 Mi portfolio web:
 Utilizo un servidor gratuito. Si no cargan los datos, sepan disculpar.
