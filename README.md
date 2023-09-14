@@ -14,6 +14,8 @@
 
 ### 🏃‍♂️💨👨‍💻 Metodología Ágil: SCRUM
 
+### APPS de escritorio con C# .NET WebForms
+
 ## 🌐💻👤 Mi portfolio web:
 Utilizo un servidor gratuito. Si no cargan los datos, sepan disculpar.
 ### https://portfolio-yo-programo.web.app
@@ -26,6 +28,6 @@ Utilizo un servidor gratuito. Si no cargan los datos, sepan disculpar.
 ### Inglés medio.
 
 ## 🔭 Proyecto e-commerce con CRUD basico. https://proyectcarritogastyft1.web.app
+ 
 ## 🌱 Actualmente estudiando Tecnicatura en Programación en la UTN Mar del Plata. 
- ## 🌱 Realizando curso de desarrollo de apps de escritorio con C# .NET WebForms.
   ## 🌱 Realizando curso de desarrollo web de Miscrosoft: ASP .NET WebForms.
