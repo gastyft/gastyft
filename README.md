@@ -28,6 +28,5 @@ Utilizo un servidor gratuito. Si no cargan los datos, sepan disculpar.
 ### Inglés medio.
 
 ## 🔭 Proyecto e-commerce con CRUD basico. https://proyectcarritogastyft1.web.app
- 
-## 🌱 Actualmente estudiando Tecnicatura en Programación en la UTN Mar del Plata. 
-  ## 🌱 Realizando curso de desarrollo web de Miscrosoft: ASP .NET WebForms.
+## 🌱 Actualmente estudiando Tecnicatura en Programación en la UTN Mar del Plata.
+## 🌱 Realizando curso de desarrollo web de Miscrosoft: ASP .NET WebForms.
