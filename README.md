@@ -6,11 +6,11 @@
 
 ### 🖥️💻🎨 Frontend: Node.js, Angular, HTML5, CSS3, JS, TYPESCRIPT, Bootstrap. 
 
-### 🔙🔧🤖Backend: Apache NetBeans, Java, Maven, JSP, Servlets, Sockets, Spring Boot, Postman,DockerFile.
+### 🔙🔧🤖Backend: Apache NetBeans, Java, Maven, JSP, Servlets, Sockets, Spring Boot, Postman,DockerFile,C y C# ASP.NET FrameWork(CRUD basico).
 
 ### 🗄️💾📊Base de datos: MySQL, SQL.
 
-### 🐙💻📚GitHub.
+### 🐙💻📚 GIT y GitHub.
 
 ### 🏃‍♂️💨👨‍💻 Metodología Ágil: SCRUM
 
