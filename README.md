@@ -1,12 +1,13 @@
 # Mi Perfil
-## Hola! Mi nombre es Gastón Manuel Ftacla.
-## Soy desarrollador Full Stack Jr, Tester Manual trainee y estudiante de Tecnicatura Universitaria en Programación. Me encantaría tener la oportunidad de trabajar en un entorno de equipo IT,  seguir aprendiendo y creciendo en mi carrera. Me encantaría aportar mis habilidades y conocimientos al equipo y aprender de mis futuros colegas.
+## Hello. I'm Gastón, 26 years old, from Mar del Plata.
+## I'm a Junior Full Stack developer, a student in the University Technician Program in Programming at UTN Mar del Plata, and a Manual Explorer Tester Trainee. 
+## I've been programming for over a year and a half in various languages such as C, JAVA, C#, and Typescript. Although I haven't had the opportunity to work in IT professionally yet, I have personal projects that I've completed through various courses.
 
 ## ⚡Mi Stack: 
 
 ### 🖥️💻🎨 Frontend: Node.js, Angular, HTML5, CSS3, JS, TYPESCRIPT, Bootstrap. 
 
-### 🔙🔧🤖Backend: Apache NetBeans, Java, Maven, JSP, Servlets, Sockets, Spring Boot, Postman,DockerFile, C y C# ASP.NET FrameWork(CRUD basico).
+### 🔙🔧🤖Backend: Apache NetBeans, Java, Maven, JSP, Servlets, Sockets, Spring Boot, Postman, C y C# ASP.NET FrameWork(CRUD basico).
 
 ### 🗄️💾📊Base de datos: MySQL, SQL.
 
@@ -24,11 +25,12 @@
 
 
 ## 🌎🗣️📚 Idiomas:
-### Inglés medio.
+### Intermediate English.
 
 ## 🔭 Proyecto e-commerce con CRUD y JWT. 
-La pagina utiliza una API gratuita por lo que tarda 4 minutos en reactivarse.
+The page uses a free API so it takes 4 minutes to reactivate
 ## https://proyectcarritogastyft1.web.app
-## 🌱 Actualmente estudiando Tecnicatura en Programación en la UTN Mar del Plata.
-## 🌱 Realizando curso de desarrollo web de Miscrosoft: ASP .NET WebForms.
-## 🌱 Realizando curso de Testing Avanzado QA con herramientas.
+
+## 🌱 I'm taking an Advanced Testing course with SQL and tools.
+## 🌱 I'm also taking a web development course from Microsoft: C# ASP .NET WebForms.
+## 🌱 I'm also taking an QA Advanced Testing course.
