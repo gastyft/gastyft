@@ -31,3 +31,4 @@ La pagina utiliza una API gratuita por lo que tarda 4 minutos en reactivarse.
 ## https://proyectcarritogastyft1.web.app
 ## 🌱 Actualmente estudiando Tecnicatura en Programación en la UTN Mar del Plata.
 ## 🌱 Realizando curso de desarrollo web de Miscrosoft: ASP .NET WebForms.
+## 🌱 Realizando curso de Testing Avanzado QA con herramientas.
