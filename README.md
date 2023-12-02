@@ -31,6 +31,4 @@
 The page uses a free API so it takes 4 minutes to reactivate
 ## https://proyectcarritogastyft1.web.app
 
-## 🌱 I'm taking an Advanced Testing course with SQL and tools.
 ## 🌱 I'm also taking a web development course from Microsoft: C# ASP .NET WebForms.
-## 🌱 I'm also taking an QA Advanced Testing course.
