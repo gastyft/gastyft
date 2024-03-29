@@ -1,5 +1,5 @@
 # My Profile
-## Hello. I'm Gastón, 26 years old, from Mar del Plata.
+## Hello. I'm Gastón, 27 years old, from Mar del Plata.
 ## I'm a Junior Full Stack developer, a student in the University Technician in Programming at UTN Mar del Plata, and a Manual QA Tester Trainee. 
 ## I've been programming for over two years in various languages such as C, JAVA, C#, and Typescript. Although I haven't had the opportunity to work in IT professionally yet, I have personal projects that I've completed through various courses.
 
@@ -15,7 +15,7 @@
 
 ### 🏃‍♂️💨👨‍💻 Metodología Ágil: SCRUM
 
-### 🖥️🔧📊APPS de escritorio con C# .NET WebForms
+### 🖥️🔧📊APPS de escritorio con C# ADO .NET WebForms
 
 ## 🌐💻👤 Mi portfolio web:
 ### https://portfolio-yo-programo.web.app
@@ -31,4 +31,4 @@
 The page uses a free API so it takes 4 minutes to reactivate
 ## https://proyectcarritogastyft1.web.app
 
-## 🌱 I'm also taking a web development course from Microsoft: C# ASP .NET WebForms.
+ 
