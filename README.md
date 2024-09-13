@@ -25,7 +25,7 @@
 
 
 ## 🌎🗣️📚 Idiomas:
-### advance English B2.
+### Advance English B2.
 
 ## 🔭 Proyecto e-commerce con CRUD y JWT. 
 The page uses a free API so it takes 4 minutes to reactivate
