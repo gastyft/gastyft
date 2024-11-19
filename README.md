@@ -1,5 +1,5 @@
 # My Profile
-## Hello. I'm Gastón, 27 years old, from Mar del Plata.
+## Hello. I'm Gastón, 28 years old, from Mar del Plata.
 ## I'm a Junior Full Stack developer, a student in the University Technician in Programming at UTN Mar del Plata, and a Manual QA Tester Trainee. 
 ## I've been programming for over two years in various languages such as C, JAVA, C#, and Typescript. Although I haven't had the opportunity to work in IT professionally yet, I have personal projects that I've completed through various courses.
 
