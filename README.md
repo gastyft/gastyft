@@ -9,25 +9,25 @@
 
 ### 🔙🔧🤖Backend: Apache NetBeans, Java, Maven, JSP, Servlets, Sockets, Spring Boot, Postman, C y C# ASP.NET FrameWork(CRUD basico).
 
-### 🗄️💾📊Base de datos: MySQL, SQL.
+### 🗄️💾📊 Database: MySQL, SQL.
 
-### 🐙💻📚 GIT y GitHub.
+### 🐙💻📚 GIT & GitHub.
 
-### 🏃‍♂️💨👨‍💻 Metodología Ágil: SCRUM
+### 🏃‍♂️💨👨‍💻 Agile: SCRUM
 
-### 🖥️🔧📊APPS de escritorio con C# ADO .NET WebForms
+### 🖥️🔧📊APPS C# ADO .NET WebForms
 
-## 🌐💻👤 Mi portfolio web:
+## 🌐💻👤 portfolio web:
 ### https://portfolio-yo-programo.web.app
 
- ## 🔗👔💼 Link de Linkedln:
+ ## 🔗👔💼 Link Linkedln:
 ### https://www.linkedin.com/in/gastón-manuel-ftacla-04b57b229/
 
 
-## 🌎🗣️📚 Idiomas:
+## 🌎🗣️📚 Languages:
 ### Advance English B2.
 
-## 🔭 Proyecto e-commerce con CRUD y JWT. 
+## 🔭 e-commerce CRUD & JWT. 
 The page uses a free API so it takes 4 minutes to reactivate
 ## https://proyectcarritogastyft1.web.app
 
